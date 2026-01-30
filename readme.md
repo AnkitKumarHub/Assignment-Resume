@@ -47,7 +47,7 @@ The purpose of this assignment is to demonstrate correct usage of HTML structure
 
 ## Live Preview 
 
-https://xyz.com
+https://assignment-resume.vercel.app/
 
 ---
 
